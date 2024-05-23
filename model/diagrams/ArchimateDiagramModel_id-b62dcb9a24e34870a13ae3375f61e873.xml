@@ -9,9 +9,43 @@
       name="Estratégia"
       textAlignment="1">
     <bounds
-        x="96"
-        y="96"
-        width="361"
-        height="133"/>
+        x="84"
+        y="48"
+        width="985"
+        height="181"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-822283b1279b456392f719bb6db2999b"
+      name="Core"
+      textAlignment="1">
+    <bounds
+        x="84"
+        y="264"
+        width="985"
+        height="361"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-4833cf234fbc4495b0bb1a804f62878b">
+      <bounds
+          x="36"
+          y="48"
+          width="226"
+          height="197"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-9847f69c15d241d2b461588ed8485c41.xml#id-9847f69c15d241d2b461588ed8485c41"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-befd45694cc448bd8bb5fb16ff765460"
+      name="Suporte"
+      textAlignment="1">
+    <bounds
+        x="84"
+        y="648"
+        width="985"
+        height="193"/>
   </children>
 </archimate:ArchimateDiagramModel>
