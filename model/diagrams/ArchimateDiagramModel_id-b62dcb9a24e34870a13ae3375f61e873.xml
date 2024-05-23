@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="id-b62dcb9a24e34870a13ae3375f61e873"/>
+    name="Business Capabilities"
+    id="id-b62dcb9a24e34870a13ae3375f61e873">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-691df9a7ee36410b94847ad88607bc5e"
+      name="Estratégia"
+      textAlignment="1">
+    <bounds
+        x="96"
+        y="96"
+        width="361"
+        height="133"/>
+  </children>
+</archimate:ArchimateDiagramModel>
