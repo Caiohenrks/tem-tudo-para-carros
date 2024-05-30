@@ -56,7 +56,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-d3940861c7d34357ba4b7c76ecbd80b2"
         fillColor="#ffff95"
-        content="Vendas:&#xD;&#xA;- Converter prospects&#xD;&#xA;- Organizar o layout da loja&#xD;&#xA;- Sinalizar a loja&#xD;&#xA;&#xD;&#xA;Operações:&#xD;&#xA;- Planejar compras&#xD;&#xA;- Comprar produtos&#xD;&#xA;&#xD;&#xA;Captação e Treinamento:&#xD;&#xA;- Treinar assistentes"
+        content="Vendas:&#xD;&#xA;- Converter prospects&#xD;&#xA;- Organizar o layout da loja&#xD;&#xA;- Sinalizar a loja&#xD;&#xA;- Acondicionar a Loja&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Operações:&#xD;&#xA;- Planejar compras&#xD;&#xA;- Comprar produtos&#xD;&#xA;&#xD;&#xA;Captação e Treinamento:&#xD;&#xA;- Treinar assistentes"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
