@@ -531,8 +531,8 @@
       name="Suporte"
       textAlignment="1">
     <bounds
-        x="84"
-        y="960"
+        x="-84"
+        y="948"
         width="889"
         height="181"/>
   </children>
